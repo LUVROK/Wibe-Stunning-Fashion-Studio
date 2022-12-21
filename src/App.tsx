@@ -1,25 +1,40 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "locomotive-scroll/dist/locomotive-scroll.css";
+
+import { LocomotiveScrollProvider } from "react-locomotive-scroll";
+import { ThemeProvider } from "styled-components";
+import GlobalStyle from "./styles/globalStyle";
+import { dark } from "./styles/Themes";
+import { useRef } from "react";
+import Home from "./sections/Home";
+import { AnimatePresence } from "framer-motion";
 
 function App() {
+  const containerRef = useRef(null);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+    <>
+      <GlobalStyle />
+      <ThemeProvider theme={dark}>
+        <LocomotiveScrollProvider
+          options={{
+            smooth: true,
+            smartphone: {
+              smooth: true,
+            },
+            tablet: {
+              smooth: true,
+            },
+          }}
+          watch={[]}
+          containerRef={containerRef}
         >
-          Learn React
-        </a>
-      </header>
-    </div>
+          <AnimatePresence>
+            <main className="App" data-scroll-container ref={containerRef}>
+              <Home />
+            </main>
+          </AnimatePresence>
+        </LocomotiveScrollProvider>
+      </ThemeProvider>
+    </>
   );
 }
 
