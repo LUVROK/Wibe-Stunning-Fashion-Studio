@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Wibe-Stunning-Fashion-Studio/static/css/main.e158cd78.css",
+    "main.js": "/Wibe-Stunning-Fashion-Studio/static/js/main.e3663e8c.js",
+    "static/js/787.0211cce3.chunk.js": "/Wibe-Stunning-Fashion-Studio/static/js/787.0211cce3.chunk.js",
+    "static/media/Walking-Girl.mp4": "/Wibe-Stunning-Fashion-Studio/static/media/Walking-Girl.3e396b6d837d0a1e8fb6.mp4",
+    "static/media/kaushan-script-all-400-normal.woff": "/Wibe-Stunning-Fashion-Studio/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
+    "static/media/sirin-stencil-all-400-normal.woff": "/Wibe-Stunning-Fashion-Studio/static/media/sirin-stencil-all-400-normal.e1b8add18154b5d65682.woff",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/Wibe-Stunning-Fashion-Studio/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/Wibe-Stunning-Fashion-Studio/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/Wibe-Stunning-Fashion-Studio/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
+    "index.html": "/Wibe-Stunning-Fashion-Studio/index.html",
+    "main.e158cd78.css.map": "/Wibe-Stunning-Fashion-Studio/static/css/main.e158cd78.css.map",
+    "main.e3663e8c.js.map": "/Wibe-Stunning-Fashion-Studio/static/js/main.e3663e8c.js.map",
+    "787.0211cce3.chunk.js.map": "/Wibe-Stunning-Fashion-Studio/static/js/787.0211cce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e158cd78.css",
+    "static/js/main.e3663e8c.js"
+  ]
+}
