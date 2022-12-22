@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/Wibe-Stunning-Fashion-Studio/static/css/main.e158cd78.css",
-    "main.js": "/Wibe-Stunning-Fashion-Studio/static/js/main.171eded9.js",
+    "main.js": "/Wibe-Stunning-Fashion-Studio/static/js/main.c0e5e603.js",
     "static/js/787.d317c2e4.chunk.js": "/Wibe-Stunning-Fashion-Studio/static/js/787.d317c2e4.chunk.js",
     "static/media/Walking-Girl.mp4": "/Wibe-Stunning-Fashion-Studio/static/media/Walking-Girl.3e396b6d837d0a1e8fb6.mp4",
+    "static/media/2.webp": "/Wibe-Stunning-Fashion-Studio/static/media/2.574104ad442c095a5bbe.webp",
+    "static/media/3.webp": "/Wibe-Stunning-Fashion-Studio/static/media/3.72b96ccc924a0b0d614d.webp",
+    "static/media/1.webp": "/Wibe-Stunning-Fashion-Studio/static/media/1.378e463bfefafe30c0cb.webp",
     "static/media/kaushan-script-all-400-normal.woff": "/Wibe-Stunning-Fashion-Studio/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
     "static/media/sirin-stencil-all-400-normal.woff": "/Wibe-Stunning-Fashion-Studio/static/media/sirin-stencil-all-400-normal.e1b8add18154b5d65682.woff",
     "static/media/kaushan-script-latin-400-normal.woff2": "/Wibe-Stunning-Fashion-Studio/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
@@ -11,11 +14,11 @@
     "static/media/kaushan-script-latin-ext-400-normal.woff2": "/Wibe-Stunning-Fashion-Studio/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
     "index.html": "/Wibe-Stunning-Fashion-Studio/index.html",
     "main.e158cd78.css.map": "/Wibe-Stunning-Fashion-Studio/static/css/main.e158cd78.css.map",
-    "main.171eded9.js.map": "/Wibe-Stunning-Fashion-Studio/static/js/main.171eded9.js.map",
+    "main.c0e5e603.js.map": "/Wibe-Stunning-Fashion-Studio/static/js/main.c0e5e603.js.map",
     "787.d317c2e4.chunk.js.map": "/Wibe-Stunning-Fashion-Studio/static/js/787.d317c2e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e158cd78.css",
-    "static/js/main.171eded9.js"
+    "static/js/main.c0e5e603.js"
   ]
 }
