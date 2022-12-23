@@ -44,6 +44,9 @@ a{
   -ms-user-select: none;
   user-select: none;
 }
+*::-webkit-scrollbar {
+    width: 0px;
+}
 `;
 
 export default GlobalStyles;
